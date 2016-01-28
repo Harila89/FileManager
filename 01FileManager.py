@@ -6,6 +6,8 @@ import re
 import getpass
 from time import localtime, strftime
 
+
+#git test123
 time = "000"
 rev = "V0.1"
 user = getpass.getuser()
